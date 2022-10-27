@@ -1,0 +1,202 @@
+{
+    "search_metadata": {
+        "id": "631e13033c3fb21051da2d9f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e1039541e8f24f65/631e13033c3fb21051da2d9f.json",
+        "created_at": "2022-09-11 16:55:31 UTC",
+        "processed_at": "2022-09-11 16:55:31 UTC",
+        "google_reverse_image_url": "https://www.google.com/searchbyimage?image_url=https://i.imgur.com/dSs4YTn.jpeg",
+        "raw_html_file": "https://serpapi.com/searches/e1039541e8f24f65/631e13033c3fb21051da2d9f.html",
+        "total_time_taken": 2.19
+    },
+    "search_parameters": {
+        "engine": "google_reverse_image",
+        "image_url": "https://i.imgur.com/dSs4YTn.jpeg",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Fully empty",
+        "query_displayed": "hair design"
+    },
+    "error": "Google Reverse Image hasn't returned any results for this query.",
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIGxAA#imgrc=7nEJTkXA1DJ3zM",
+            "source": "https://www.sdsheriff.gov/Home/Components/News/News/558/514",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e482101542b098a1dac1df796403d5dc1f000990657fee130df0bbb4.jpeg",
+            "original": "https://www.sdsheriff.gov/home/showpublishedimage/3975/637636756848330000",
+            "title": "Cold Case Homicide Investigation - Santee | News Release ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIGhAA#imgrc=wGaleklk_1fSLM",
+            "source": "https://www.hawaiinewsnow.com/story/26066231/honolulu-police-search-for-missing-couple-last-seen-in-downtown-honolulu",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015b3e927374abbfbab3581bc4bc1de9508e477fac12c57f140.jpeg",
+            "original": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/fM7TlJQ9i9lRnRFjg5Rf_GMA0pc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/LSZ5MMD4CJALFL3XYOVKNTIBW4.jpg",
+            "title": "Search for missing couple called off, 27-year-old man arrested"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIGRAA#imgrc=Vs_eZv5n_KmLZM",
+            "source": "https://www.ocregister.com/2011/12/19/most-wanted-robber-who-tied-up-90-year-old/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210150fadfa4c271763091cad2d47b1af6f67aeedf55b1b9619b7.jpeg",
+            "original": "https://www.ocregister.com/wp-content/uploads/migration/lwg/lwgxgr-b78892985z.120111219123830000giu148qhj.2.jpg?w=620",
+            "title": "Most Wanted: Robber who tied up 90-year-old \u2013 Orange County ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIGBAA#imgrc=IhDSsQjmNRTMUM",
+            "source": "https://www.ocregister.com/2010/01/07/teacher-explicit-in-texts-to-student/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015c77ea9fd1ac2e9d47123a9ab284621554aee6cca7fc6e516.jpeg",
+            "original": "https://www.ocregister.com/wp-content/uploads/migration/kvw/kvw2gc-b78592057z.120100107100913000gn9lovra.1.jpg?w=535",
+            "title": "Teacher explicit in texts to student \u2013 Orange County Register"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIFxAA#imgrc=yenv9tc3lElkYM",
+            "source": "https://www.kfvs12.com/story/15475805/man-accused-of-molesting-12-year-old-child",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210154aed7a4a95f9cde86847025b36b9fb7cb9211671b2a94fe8.jpeg",
+            "original": "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/tckJyfmnE5GuKgeDqeQ2aj3sxEU=/1200x1200/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FIFXQ7ALMBBK7BVGAVFKM7XBSY.jpg",
+            "title": "Sikeston man charged with molesting 12-year-old"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIFhAA#imgrc=ZrMP-bhLTOCc4M",
+            "source": "https://www.justdial.com/Delhi/Dr-Manish-Kr-Sharma-Sir-Ganga-Ram-Hospital-Near-Karol-Bagh-Metro-Station-Old-Rajender-Nagar/011PXX11-XX11-160108114958-H0H2_BZDET",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210154cd2f97665c4107abfe12ad1c3cfdcd1bb491751edbde9e1.jpeg",
+            "original": "https://content3.jdmagicbox.com/comp/delhi/h2/011pxx11.xx11.160108114958.h0h2/catalogue/dr-manish-kr-sharma-sir-ganga-ram-hospital--old-rajender-nagar-delhi-cardiologists-PiqrFjqLlB-250.jpg",
+            "title": "Dr. Manish Kr Sharma (Sir Ganga Ram Hospital ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIFRAA#imgrc=kEH0Jm0dKXUhDM",
+            "source": "https://www.actionnews5.com/story/35180552/19-year-old-charged-with-murder-kidnapping",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210153ba1a470278490be7969a4ac6bb737257a9b38c069be263a.jpeg",
+            "original": "https://gray-wmctv-prod.cdn.arcpublishing.com/resizer/AVBh5OrAoNfWuPW1L2GZtv63zWY=/1200x1200/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/27NDJEQPBVB6NBQYWGOBRDPVFE.jpg",
+            "title": "19-year-old charged with murder, kidnapping"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIExAA#imgrc=9UX67xchTE5VxM",
+            "source": "https://www.eastbaytimes.com/2015/10/23/pittsburg-police-capture-34-year-old-man-suspected-of-stabbing-three-winco-foods-employees/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015d41a96b22bf054d256689da04448f5bff2e796847b8908e3.jpeg",
+            "original": "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20151023_070040_pittstablist.jpg?w=388",
+            "title": "Pittsburg police capture 34-year-old man suspected of ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIFBAA#imgrc=ec1soNyiZqmuZM",
+            "source": "https://billingsgazette.com/lifestyles/announcements/obituaries/elvis-d-old-bull/article_a40fff11-1035-5cab-8ab5-def26792bb64.html",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015220bbb8175fda94913e7afe832ff133f5a859f65c6f4cd83.jpeg",
+            "original": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/1/b7/1b75f50c-aa9a-5e7c-ab32-d7a169fde8a9/542f0bc3ba582.preview-699.jpg?crop=699%2C699%2C0%2C150&resize=1200%2C1200&order=crop%2Cresize",
+            "title": "Elvis D. Old Bull | Billings obituaries | billingsgazette.com"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIEhAA#imgrc=m0oiR8Rpq6nXzM",
+            "source": "https://abc13.com/sexual-assault-galveston-county-margarito-blanco-alviso-miguel-mago/1148371/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015439561a02a2f191be6969c63e2667eedacecc511b2f2b720.jpeg",
+            "original": "https://cdn.abcotvs.com/dip/images/1148370_010616-ktrk-galveston-img.jpg",
+            "title": "Man accused in 1996 assault of 13-year-old girl wanted by ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIEBAA#imgrc=kKT2g-GxutE8RM",
+            "source": "https://www.siasat.com/city-based-businessman-kidnapped-from-old-city-murdered-at-sanga-reddy-2181323/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015c395f3107ade8b13b539e3c3e05e10dff687ea72ea82d130.jpeg",
+            "original": "https://cdn.siasat.com/wp-content/uploads/2021/08/photo.jpg",
+            "title": "City based businessman kidnapped from old city, murdered at ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIERAA#imgrc=2hrul5P_tTITQM",
+            "source": "https://www.daijiworld.com/news/newsDisplay?newsID=983928",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015fd8352fda88d8e9d12a15780ce88288c59fa3a7b08ce8b6a.jpeg",
+            "original": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_290722_beltng.jpg",
+            "title": "Beltangady: 54-year-old man falls into drain while crossing ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIDxAA#imgrc=dc5RWMnlPWLREM",
+            "source": "https://www.wafb.com/story/4661810/livingston-parish-man-arrested-for-allegedly-shooting-girlfriend",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015bb5f58d08ad148a1796bcad39e75294f2a6393332648e304.jpeg",
+            "original": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/aI7HzD2RR2bpR3k6CvWGttwJ2_Y=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EAHCZO437NF7LBMHENVBTFXKZ4.jpg",
+            "title": "Livingston Parish Man Arrested for Allegedly Shooting Girlfriend"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIDhAA#imgrc=o2snJfR2wESxfM",
+            "source": "https://www.9news.com.au/national/aus-man-charged-over-philippines-murder/afbbd36d-3b21-4762-9fa6-68f8ae8322e9",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210150dd93ae6c96a434913581808d03987115d015bcf6bfd07ca.jpeg",
+            "original": "https://imageresizer.static9.net.au/U2wRnE1STZv9WBS7WqwDZua8WdI=/500x0/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FNH-Fast%2F2015%2FFebruary%2F04%2F0402_ali_env_sp.jpg",
+            "title": "Australian charged over brutal murder of 17-year-old Filipina"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIDRAA#imgrc=IZIGx22C_AG31M",
+            "source": "https://katv.com/news/local/dna-links-arkansas-man-to-1974-killing-of-5-year-old-montana-girl",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210155057928def334866eb719e3b64619d75af0faf815e110d23.jpeg",
+            "original": "https://katv.com/resources/media/826aab12-d5b9-4c62-b827-b891adb139ed-large3x4_richardwilliamdavis.jpg?1603814002843",
+            "title": "DNA links Arkansas man to 1974 killing of 5-year-old Montana ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIDBAA#imgrc=swY5F_xAETpmaM",
+            "source": "https://www.newindianexpress.com/states/telangana/2019/aug/20/was-80-yr-old-hyderabad-man-poisoned-then-chopped-by-family-2021367.html",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210159b49d61d70d63a657b41519c010f40d71746c26f230da198.jpeg",
+            "original": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/8/20/w900X450/Capture.JPG?w=400&dpr=2.6",
+            "title": "Was 80-yr-old Hyderabad man poisoned, then chopped by family ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQICxAA#imgrc=aY8w-SedCrx1VM",
+            "source": "https://www.kfyrtv.com/content/news/Warrant-out-for-escaped-inmate-488902941.html",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015428f2d11aaa1b746df30c23026422dbf3291fd3ffaa79316.jpeg",
+            "original": "https://gray-kfyr-prod.cdn.arcpublishing.com/resizer/sVXb1JAfTiVsqSTOw6Lqyk6BLYQ=/1200x900/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/DVUKHBLCXVKOTEQQHROELKNCZI.jpg",
+            "title": "Warrant out for escaped inmate"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIChAA#imgrc=iTGFyk04bYAtQM",
+            "source": "https://www.iheart.com/content/2018-08-20-video-shows-angry-mom-catch-confront-predator-who-grabbed-her-12-year-old/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e48210155b55630df9bff3bf7c3be2c863580109b6323202a7521218.jpeg",
+            "original": "https://i.iheart.com/v3/re/new_assets/5b7b0d48f51da998f6ce10ba?ops=contain(1480,0)",
+            "title": "Video Shows Angry Mom Catch & Confront Predator Who Grabbed ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIAxAA#imgrc=A3t03vSgVzDVNM",
+            "source": "https://www.kplctv.com/story/29514746/rosepine-man-arrested-after-being-caught-peeking-under-a-bathroom-door-while-a-17-year-old-girl-showered",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e482101510a112b1de70ce61dff4abc6acb6c5f16e1206d0d819d4b7.jpeg",
+            "original": "https://gray-kplc-prod.cdn.arcpublishing.com/resizer/e-HNNEG2ofpoo77GhsxS1M-ax-c=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/CNI7XKBNMZF53CUEU2QJXVBZPQ.jpg",
+            "title": "Rosepine man accused of peeking under bathroom door while 17 ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQICRAA#imgrc=EXeGzkclsoRjGM",
+            "source": "https://www.nydailynews.com/news/crime/california-man-hacks-death-ex-wife-6-year-old-daughter-cops-article-1.1563946",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015c3d0da9b25e9db947b6f13f11363929663b9bf448f2ef30e.jpeg",
+            "original": "https://www.nydailynews.com/resizer/4YRMSTxps0jm6qGxrvFPC7-K8eM=/1200x630/filters:format(jpg):quality(70)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/NDGAM3PN72ZTBDKL5Q4FJID7HQ.jpg",
+            "title": "California man hacks to death ex-wife, 6-year-old daughter ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIBRAA#imgrc=l-sE4rOJMGYR5M",
+            "source": "https://www.msn.com/en-us/news/crime/53-year-old-carl-jess-sanchez-arrested-after-sexual-abuse-investigation/ar-AAWcsfi",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015fe3fc56cfe7ac1276c666234c45f0777db27e82cc215e65c.jpeg",
+            "original": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAWcWyF.img?h=350&w=624&m=6&q=60&u=t&o=t&l=f&f=jpg&x=499&y=369",
+            "title": "53-year-old Carl Jess Sanchez arrested after sexual abuse ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIBhAA#imgrc=KINf85WKAvfhDM",
+            "source": "https://www.dailymail.co.uk/news/article-2791366/man-woman-15-year-old-jailed-murdering-man-claim-tried-kidnap.html",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015e9cf96a5677e001b0bafda32b0df6f8a02670b8056df8970.jpeg",
+            "original": "https://i.dailymail.co.uk/i/pix/2014/10/13/1413223793950_wps_19_image001_png_Alejandro_Te.jpg",
+            "title": "California trio, including 15-year-old jailed for 'murdering ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIBBAA#imgrc=wnvXUFG3nz_aoM",
+            "source": "https://hayspost.com/posts/6b3b3d2d-2f3f-4337-b980-2d376f68b877",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015fd73a27f6bece340c53b8cf421a27d5663ed946d4e3e0020.jpeg",
+            "original": "https://media.eaglewebservices.com/public/2020/6/1592945403061.png",
+            "title": "14-year-old victim met sex offender playing game on cell phone"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQIAhAA#imgrc=98eJd69ID3HfiM",
+            "source": "https://edition.channel5belize.com/archives/214042",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015ad18eee0bed428de71abe2d55b7cf4e84062bfaed9c053f4.jpeg",
+            "original": "https://edition.channel5belize.com/wp-content/uploads/2021/01/vlcsnap-2021-01-18-19h30m36s168.png",
+            "title": "Nineteen-Year-Old Fatally Stabbed by his Stepfather ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQ5r0BegQICBAA#imgrc=Ij_Klpber9nQrM",
+            "source": "https://www.lubbockonline.com/story/news/crime/2016/01/14/lubbock-sheriffs-office-issues-warrant-murder-suspect/14936918007/",
+            "thumbnail": "https://serpapi.com/searches/631e13033c3fb21051da2d9f/images/4316a139e4821015ce357f2880b55eb131a95e67bbf48aefda47aaa1624d4fed.jpeg",
+            "original": "https://www.gannett-cdn.com/authoring/2016/01/14/NLAJ/ghows-TX-4d0af172-3f56-45a8-89f7-84cf86a29fbd-086bacf3.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp",
+            "title": "Lubbock sheriff's office issues warrant for murder suspect"
+        }
+    ],
+    "inline_images_link": "https://www.google.com/search?tbs=simg:CAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA&q=hair+design&tbm=isch&sa=X&ved=2ahUKEwizvL6tmo36AhWvl2oFHUtNCbIQjJkEegQIBxAC",
+    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hair+design&tbm=isch&tbs=simg%3ACAESigIJtDD2WF1ABkoa_1gELEKjU2AQaAghCDAsQsIynCBo7CjkIBBIUoSKmHrEvvSjdAfQXkDiLL6gUwygaGwEMODALmkJHH2e9UThLME5rFFpPPNeHpGRXDCAFMAQMCxCOrv4IGgoKCAgBEgTlAtPODAsQne3BCRqSAQofCgtoYWlyIGRlc2lnbtqliPYDDAoKL20vMGJiMTEzcwoWCgNvbGTapYj2AwsKCS9hLzN2NDE1dwocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQogCg1ubyBleHByZXNzaW9u2qWI9gMLCgkvai85X2JocG4KFwoEdWdsedqliPYDCwoJL2EvYjBkZ3AzDA"
+}
