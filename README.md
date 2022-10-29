@@ -11,21 +11,21 @@
 
 <h3>Demo video (when there is low lightning conditions)</h3>
 <figure class="video_container">
-  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/low_light.webm.mov" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/low_light.webm" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
 <figure class="video_container">
-  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/mid_low_light.webm.mov" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/mid_low_light.webm" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <h3>Demo video (for multiple face detection)</h3>
 <figure class="video_container">
-  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/multiple_detection.webm.mov" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/multiple_detection.webm" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
 <h3>Demo video (for unknown faces)</h3>
 <figure class="video_container">
-  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/unknown_meta_data.webm.mov" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/master/Goa%20Police%20Hackathon/Demo_Video/unknown_meta_data.webm" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
