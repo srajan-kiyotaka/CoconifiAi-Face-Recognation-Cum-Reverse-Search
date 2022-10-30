@@ -10,14 +10,14 @@
 </ul>
 
 <h3>Demo video (when there is low lightning conditions)</h3>
-![](low_light.mov)
+![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/low_light.mov)
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
-![](mid_light.mp4)
+![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/mid_light.mp4)
 
 <h3>Demo video (for multiple face detection)</h3>
-![](multiple_detection.mov)
+![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/multiple_detection.mov)
 
 
 <h3>Demo video (for unknown faces)</h3>
-![](unknown_meta_data.mp4)
+![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/unknown_meta_data.mp4)
