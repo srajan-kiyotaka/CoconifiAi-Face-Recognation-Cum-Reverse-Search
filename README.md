@@ -10,14 +10,14 @@
 </ul>
 
 <h3>Demo video (when there is low lightning conditions)</h3>
-![](low_light.mov)
+low_light.mov
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
-![](mid_light.mp4)
+mid_light.mp4
 
 <h3>Demo video (for multiple face detection)</h3>
-![](multiple_detection.mov)
+multiple_detection.mov
 
 
 <h3>Demo video (for unknown faces)</h3>
-![](unknown_meta_data.mp4)
+unknown_meta_data.mp4
