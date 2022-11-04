@@ -9,15 +9,26 @@
     <li><strong>This model can work on any lightning condition:-</strong>For this feature we used haar's cascade model. First it convert an RGB image into a low light binary image and constructs arrow from one bright spot to another bright spot which makes it independent of lightning condition.</li>
 </ul>
 
-<h3>Demo video (when there is low lightning conditions)</h3>
-![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/low_light.mov)
+<br>
 
-<h3>Demo video (when there is mid lightning conditions)</h3>
-![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/mid_light.mp4)
+## Demo video when there is low lightning conditions.
 
-<h3>Demo video (for multiple face detection)</h3>
-![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/multiple_detection.mov)
+https://user-images.githubusercontent.com/91196806/200052963-0f23b1d2-3382-4681-ac9d-5ce45911ec25.mov
 
+<br>
 
-<h3>Demo video (for unknown faces)</h3>
-![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/unknown_meta_data.mp4)
+## Demo video when there is mid lightning conditions.
+
+https://user-images.githubusercontent.com/91196806/200052953-2cff1a34-e8b2-4666-8036-058d8f056913.mp4
+
+<br>
+
+## Demo video for multiple face detection.
+
+https://user-images.githubusercontent.com/91196806/200052941-be078ed4-c1ee-46e8-81fe-bf2eb00ec94b.mov
+
+<br>
+
+## Demo video for unknown faces.
+
+https://user-images.githubusercontent.com/91196806/200052912-1e66a2b1-85f7-4173-a27f-b585365872f6.mp4
